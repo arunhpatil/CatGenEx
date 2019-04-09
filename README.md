@@ -16,9 +16,10 @@ Assuming there are 32 tissues in the matrix, the categories are defined as follo
 The categories are modified slightly and the users can tweak the code to include cut-off at FPKM or iBAQ or any other quantification means as mentioned in Uhlen et. al., and Wang et. al.
 
 NOTE: CatGenEx <br>
-&nbsp;&nbsp;&nbsp;- should be used for an expression matrix containing multiple tissues; <br>
-&nbsp;&nbsp;&nbsp;- The code can be appled for raw and normalized data, however, the data should not be scaled between 1 & 10 or &nbsp;&nbsp;&nbsp;  similar scaling method; <br>
-&nbsp;&nbsp;&nbsp;- Can't be used as a validation means.<br><br>
+* should be used for an expression matrix containing multiple tissues; <br>
+* The code can be applied for raw and normalized data; <br>
+* The data should not be scaled between 1 & 10 or similar scaling method; <br>
+* Can't be used as a validation means.<br><br>
 
       
 <strong>HOW TO USE:</strong><br>
