@@ -28,5 +28,5 @@ Clone or Download the repository.<br><br>
 user@userGitHub<strong>$</strong> perl CatGenEx.pl \<input_file_name.txt> \<output_file_name.txt> <br>
   Example: perl CatGenEx.pl input_file_name.txt output_file_name.txt<br><br>
   
-<strong>Sample:</strong>
-A sample file will be provided soon. 
+<! --<strong>Sample:</strong>
+A sample file will be provided soon. -->
