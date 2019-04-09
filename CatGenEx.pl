@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#Authors: Arun H. Patil 
+#Author: Arun H. Patil 
 #Contribution: Sayali C. Deolankar
 #Date: April 02, 2019
 
