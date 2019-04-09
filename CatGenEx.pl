@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #Author: Arun H. Patil 
-#Contribution: Sayali C. Deolankar
+#Contributor: Sayali C. Deolankar
 #Date: April 02, 2019
 
 $input = $ARGV[0];
