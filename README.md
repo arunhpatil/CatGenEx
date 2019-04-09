@@ -1,6 +1,6 @@
 # CatGenEx
 
-<strong><h1>CatGenEx - Categorization of Genes based on Expression</h1></strong> 
+<strong><h1>CatGenEx - Categorization of Gene (based on) Expression</h1></strong> 
 
 This repository is a Command line interface bash script for Linux and Mac. This program allows classification of genes accross different tissues similar to the method followd in <a href="https://science.sciencemag.org/content/347/6220/1260419.figures-only" target="_blank">Uhlen</a> et. al., &#34;<strong>Tissue-based map of the human proteome&#34;</strong> and  <a href="http://m.msb.embopress.org/content/15/2/e8503.full.pdf " target="_blank">Wang</a> et. al., &#34;<strong>A deep proteome and transcriptome abundance atlas of 29 healthy human tissues&#34;</strong>.<br>
 
