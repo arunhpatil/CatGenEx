@@ -15,11 +15,11 @@ Assuming there are 32 tissues in the matrix, the categories are defined as follo
 (5) “<strong>Mixed</strong>” – the remaining genes detected in 1-31 tissues and in none of the above categories. <br>
 The categories are modified slightly and the users can tweak the code to include cut-off at FPKM or iBAQ or any other quantification means as mentioned in Uhlen et. al., and Wang et. al.
 
-NOTE: CatGenEx 
-      - should be used for an expression matrix containing multiple tissues; 
-      - Can't be used as a validation means;
+NOTE: CatGenEx <br>
+      - should be used for an expression matrix containing multiple tissues; <br>
+      - Can't be used as a validation means;<br>
       - The code can be appled for raw and normalized data, however, the data should not be scaled between 1 & 10 or similar scaling method. 
-
+<br>
 <strong>HOW TO USE:</strong><br>
 Clone or Download the repository.<br><br>
   <strong>Usage:</strong> <br>
