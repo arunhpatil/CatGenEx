@@ -28,3 +28,6 @@ Clone or Download the repository.<br><br>
 user@userGitHub<strong>$</strong> perl CatGenEx.pl \<input_file_name.txt> \<output_file_name.txt> <br>
   Example: perl CatGenEx.pl input_file_name.txt output_file_name.txt<br><br>
   
+
+## Citation
+Sayali Chandrashekhar Deolankar, Arun H. Patil, Devasahayam Arokia Balaya Rex, Pratigya Subba, Anita Mahadevan, and Thottethodi Subrahmanya Keshava Prasad. (2021). <strong>Mapping Post-Translational Modifications in Brain Regions in Alzheimer's Disease Using Proteomics Data Mining.</strong> <em>OMICS: A Journal of Integrative Biology</em>. 25, 525-536. <a href="https://pubmed.ncbi.nlm.nih.gov/34255573/" target="_blank">[PMID]</a>.
